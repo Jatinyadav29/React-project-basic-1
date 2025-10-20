@@ -2,3 +2,6 @@
 * {
   font-family: "K2D", sans-serif;
 }
+#rightContent::-webkit-scrollbar {
+  display: none;
+}
